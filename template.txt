@@ -1,4 +1,4 @@
-path/to/folder/to/be/sorted
+path/to/directory/to/be/sorted
 .txt - doc_files
 .doc - doc_files
 .docx - doc_files
