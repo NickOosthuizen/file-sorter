@@ -1,0 +1,10 @@
+path/to/folder/to/be/sorted
+.txt - doc_files
+.doc - doc_files
+.docx - doc_files
+.jpg - image_files
+.jpeg - image_files
+.png - image_files
+.pps - presentations
+.ppt - presentations
+.pptx - presentations
