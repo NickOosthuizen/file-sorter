@@ -8,3 +8,4 @@ path/to/directory/to/be/sorted
 .pps - presentations
 .ppt - presentations
 .pptx - presentations
+.pdf - pdf_files
