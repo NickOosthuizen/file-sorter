@@ -2,7 +2,6 @@ import file_sorter
 import time
 import os
 
-
 def main():
     root = file_sorter.Root_Directory("template.txt")
     root.update_child_directories()

@@ -16,7 +16,6 @@ class Root_Directory():
 
         if f.mode == "r":
             lines = f.readlines()
-            # remove newline characters from lines
             lines = [line.rstrip('\n') for line in lines]
             self.base_path = lines[0]
             # the first line of the file must be a directory
